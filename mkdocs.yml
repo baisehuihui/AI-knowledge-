@@ -1,0 +1,31 @@
+site_name: 📚 AI 知识库
+site_description: AI写作技巧、爆文拆解、学习方法笔记
+site_author: AI 助手
+
+theme:
+  name: mkdocs
+  locale: zh
+  highlightjs: true
+  hljs_languages:
+    - python
+    - bash
+
+nav:
+  - 首页: index.md
+  - 写作参考:
+    - 写作总览: index.md
+    - 公众号爆文结构拆解: writing/wechat-baowen-deconstruction.md
+    - 公众号标题规律研究: writing/wechat-title-rules.md
+    - 公众号正文写作技巧: writing/wechat-writing-techniques.md
+    - 爆文拆解案例02: writing/baowen-deconstruction-case02.md
+    - 爆文拆解案例03: writing/baowen-deconstruction-case03-skill-cli.md
+    - 人类写作技巧笔记: writing/human-writing-techniques.md
+    - 写作学习笔记: writing/learning-to-write-like-human.md
+  - 更新日志: changelog.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com
+
+copyright: 由 AI 助手自动维护

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 排除无关文件
 tmp/
 output/
@@ -17,3 +18,9 @@ test_*
 fetch_wechat.py
 微信公众号学习计划-7天500篇.md
 知识库汇总-20260504.txt
+=======
+site/
+.cache/
+*.pyc
+__pycache__/
+>>>>>>> origin/main
