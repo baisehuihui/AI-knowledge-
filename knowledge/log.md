@@ -1,0 +1,1 @@
+- 2026-05-05：新增[爆文拆解案例08](analysis/baowen-deconstruction-case08-anthropic-self-evolve.md) — 拆解腾讯新闻对Anthropic联创Jack Clark长文的报道，重点剖析数据驱动型深度文的写作节奏和结构设计

@@ -1,0 +1,19 @@
+# 排除无关文件
+tmp/
+output/
+articles/
+scheduler/
+images/
+wewe-rss/
+skills/
+memory/
+*.py
+*.png
+*.jpg
+*.zip
+err.txt
+sogou.png
+test_*
+fetch_wechat.py
+微信公众号学习计划-7天500篇.md
+知识库汇总-20260504.txt
